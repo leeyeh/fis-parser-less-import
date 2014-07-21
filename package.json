@@ -1,0 +1,14 @@
+{
+  "name": "fis-parser-less-import",
+  "version": "0.0.1",
+  "description": "Import less lib before parsing.",
+  "main": "index.js",
+  "keywords": [
+    "fis",
+    "less",
+    "import",
+    "mixin"
+  ],
+  "author": "lee55962698@gmail.com",
+  "license": "MIT"
+}
