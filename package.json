@@ -9,6 +9,10 @@
     "import",
     "mixin"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leeyeh/fis-parser-less-import"
+  },
   "author": "lee55962698@gmail.com",
   "license": "MIT"
 }
