@@ -25,7 +25,8 @@ fis.config.merge({
 
 Setting
 ----
-- `file{String}`: `import`的文件地址
+- `file{String|Array}`: `import`的文件路径，支持数组形式。
+
 
 FAQ
 ---
