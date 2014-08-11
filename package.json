@@ -1,6 +1,6 @@
 {
   "name": "fis-parser-less-import",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Import less lib before parsing.",
   "main": "index.js",
   "keywords": [
